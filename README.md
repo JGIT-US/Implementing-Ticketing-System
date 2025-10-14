@@ -9,7 +9,7 @@
 
 <h2>Languages and Utilities Used</h2>
 
-- <b></b> 
+- <b>JIRA Service Manager</b> 
 - <b>Oracle Virtual Box</b>
 
 <h2>Environments Used </h2>
